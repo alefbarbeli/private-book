@@ -98,9 +98,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-theme: mango
-# theme: Academia
+theme: landscape
+# theme: mango
+# theme: hexo-theme=skapp
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
